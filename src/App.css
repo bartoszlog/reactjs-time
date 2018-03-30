@@ -1,0 +1,11 @@
+span {
+  font-size: 70px;
+  color: black;
+  background: #2ecc71;
+  border-radius: 70%;
+  padding: 15px;
+  margin-left: 45%;
+}
+p {
+  text-align: center;
+}
